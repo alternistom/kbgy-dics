@@ -1,14 +1,10 @@
 {title: Egy nap}
 {subtitle: Együtt mind, ott a mennyben}
 
-Intro zongora - Verse1 - Verse2 - Chorus - 
-rövid zongis Intro - Verse3 - Chorus - Verse4 -
-Chorus x4 (3. dob, 4 zongi)
-
-{c:Intro}
-[A] [C#/G] [F#m7]
-[Hm] [D] [E/G#]
-[D9] [C#7/F] [F#m7] [Hm] [A/C#] [Esus4] [E]
+{c:intro}
+[A][C#/G#][F#m7]
+[Hm][D][E/G#]
+[D9][C#7/F][F#m7][Hm][A/C#][Esus4][E]
 
 {c:Verse1}
 [A]Egy nap mindent [Hm]újjá tesz[F#m7]el, Jézus
